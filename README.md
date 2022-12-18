@@ -12,8 +12,8 @@
 
 ## Some stats
 
-<span>
-<img  height="150px" alt="goodideagiver" /> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddeusdev&show_icons=true&theme=radical)
+<span height="150px">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddeusdev&show_icons=true&theme=radical)]
 </span>
 <span>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=reddeusdev&show_icons=true&locale=en&theme=transparent" alt="goodideagiver" />
