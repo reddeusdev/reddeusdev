@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Hello I'm Grzegorz - Frontend Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=A66FFF&center=true&vCenter=true&width=435&lines=Hello+I'm+Karol+-+Frontend+Developer)](https://git.io/typing-svg)
 
-<!--
-**reddeusdev/reddeusdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Funfacts about me
 
-Here are some ideas to get you started:
+⚙ I learned to code to find an interesting job
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tech I use
+
+![My Skills](https://skillicons.dev/icons?i=git,github,javascript,html,css,react)
+
+
+## Some stats
+
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=reddeusdev&show_icons=true&locale=en&layout=compact&theme=transparent" alt="goodideagiver" /> 
+</span>
+<span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=reddeusdev&show_icons=true&locale=en&theme=transparent" alt="goodideagiver" />
+</span>
+
+<h3 align="left">Support:</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reddeusdev&label=Profile%20views&color=0e75b6&style=flat" alt="goodideagiver" /> </p>
