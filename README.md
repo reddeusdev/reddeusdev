@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F77642&width=435&lines=Hello+I'm+Grzegorz+-+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F77642&width=490&lines=Hello+I'm+Grzegorz+-+Frontend+Developer)](https://git.io/typing-svg)
 
 ## Funfacts about me
 
