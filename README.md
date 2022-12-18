@@ -7,7 +7,7 @@
 
 ## Tech I use
 
-![My Skills](https://skillicons.dev/icons?i=git,github,javascript,html,css,react)
+![My Skills](https://skillicons.dev/icons?i=git,github,javascript,html,css,react,bootstrap)
 
 
 ## Some stats
